@@ -5,4 +5,5 @@ main() {
          factorial();
 	 reverse();
 	 fibonacci();
+	 sortnum();
 }
